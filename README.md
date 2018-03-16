@@ -1,0 +1,1 @@
+# It is a website www.myuntoldstory.in which is a platform where anyone can write story of his experience, success, failure, struggle, pain etc. which he never want to forget. If anyone does not want to show his name it's ok he can write by any name he want. These stories have title, category, image, name of author and story. 
